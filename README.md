@@ -9,6 +9,11 @@ Emerging trends in federated learning: from model fusion to federated X learn
 * Federated Multi-Task Learning (NeurIPS, 2017) [[paper](https://arxiv.org/pdf/1705.10467)]
 
 
-
-
 ## Dataset
+* **[NYUv2]** Indoor Segmentation and Support Inference from RGBD Images (ECCV, 2012) [[paper](https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf)] [[dataset](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)]
+
+* **[Cityscapes]** The Cityscapes Dataset for Semantic Urban Scene Understanding (CVPR, 2016) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780719)] [[dataset](https://www.cityscapes-dataset.com/)]
+
+* **[PASCAL-Context]** The Role of Context for Object Detection and Semantic Segmentation in the Wild (CVPR, 2014) [[paper](https://cs.stanford.edu/~roozbeh/pascal-context/mottaghi_et_al_cvpr14.pdf)] [[dataset](https://cs.stanford.edu/~roozbeh/pascal-context/)]
+
+* **[Taskonomy]** Taskonomy: Disentangling Task Transfer Learning (CVPR, 2018 [best paper]) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.pdf)] [[dataset](http://taskonomy.stanford.edu/)]

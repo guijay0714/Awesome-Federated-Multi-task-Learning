@@ -12,7 +12,7 @@ Emerging trends in federated learning: from model fusion to federated X learn
 
 
 ## Dataset
-* **[NYUv2]** Indoor Segmentation and Support Inference from RGBD Images (ECCV, 2012) [[paper](https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf)] [[dataset](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)]
+* **[NYUv2]** Indoor Segmentation and Support Inference from RGBD Images (ECCV, 2012) [[paper](https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf)]
 
 * **[Cityscapes]** The Cityscapes Dataset for Semantic Urban Scene Understanding (CVPR, 2016) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780719)] [[dataset](https://www.cityscapes-dataset.com/)]
 

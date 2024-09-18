@@ -5,7 +5,7 @@ Emerging trends in federated learning: from model fusion to federated X learn
 
 
 ## Federated Multi-task Learning
-* FEDHCA<sup>2</sup>: Towards Hetero-Client Federated Multi-Task Learning (CVPR, 2024) [[paper](file:///tmp/MicrosoftEdgeDownloads/f35ec6d5-566b-4122-9032-4b40571b3636/Lu_FedHCA2_Towards_Hetero-Client_Federated_Multi-Task_Learning_CVPR_2024_paper.pdf), [code](https://github.com/innovator-zero/FedHCA2)]
+* FEDHCA<sup>2</sup>: Towards Hetero-Client Federated Multi-Task Learning (CVPR, 2024) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_FedHCA2_Towards_Hetero-Client_Federated_Multi-Task_Learning_CVPR_2024_paper.pdf), [code](https://github.com/innovator-zero/FedHCA2)]
 
 * Federated Multi-Task Learning on Non-IID Data Silos: An Experimental Study (ICMR, 2024) [[paper](https://arxiv.org/pdf/2402.12876),[code](https://github.com/youngfish42/FMTL-Benchmark)]
 * Many-Task Federated Learning: A New Problem Setting and A Simple Baseline (CVPRW, 2023) [[paper](https://openaccess.thecvf.com/content/CVPR2023W/FedVision/papers/Cai_Many-Task_Federated_Learning_A_New_Problem_Setting_and_a_Simple_CVPRW_2023_paper.pdf),[code](https://github.com/VITA-Group/MaT-FL?tab=readme-ov-file)]

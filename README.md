@@ -5,6 +5,7 @@ Emerging trends in federated learning: from model fusion to federated X learn
 
 
 ## Federated Multi-task Learning
+* ColNet: Collaborative Optimization in Decentralized Federated Multi-task Learning Systems (2025) [[paper](https://arxiv.org/pdf/2501.10347?)]
 * FEDHCA<sup>2</sup>: Towards Hetero-Client Federated Multi-Task Learning (CVPR, 2024) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_FedHCA2_Towards_Hetero-Client_Federated_Multi-Task_Learning_CVPR_2024_paper.pdf), [code](https://github.com/innovator-zero/FedHCA2)]
 
 * Federated Multi-Task Learning on Non-IID Data Silos: An Experimental Study (ICMR, 2024) [[paper](https://arxiv.org/pdf/2402.12876),[code](https://github.com/youngfish42/FMTL-Benchmark)]
